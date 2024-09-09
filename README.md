@@ -22,5 +22,4 @@ I’m always eager to learn and adapt to new technologies and methodologies. Whe
 **🔗 Let’s Connect:**
 I welcome opportunities to collaborate with other engineers and industry professionals. Explore my repositories, contribute to my projects, or reach out to discuss potential collaborations!
 
-**📧 Email:** Davidntow13@gmail.com
 **🔗 LinkedIn:** https://www.linkedin.com/in/david-ntow-4a632823b/
